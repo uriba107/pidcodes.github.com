@@ -1,9 +1,9 @@
 ---
 layout: pid
-title: ODrive v3.2
-owner: ODrive
+title: ODrive
+owner: ODriveRobotics
 license: MIT
-site: https://hackaday.io/project/11583-odrive-high-performance-motor-control
+site: https://odriverobotics.com/
 source: https://github.com/madcowswe/ODriveFirmware
 ---
-ODrive v3.2 is a two channel high performance three-phase motor controller.
+ODrive is a high performance three-phase motor controller.
